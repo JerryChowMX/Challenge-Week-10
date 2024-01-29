@@ -38,3 +38,8 @@ Follow the command-line prompts to enter your preferred text, text color, shape,
 
 Once all inputs are provided, the application will generate an SVG file named logo.svg in the root directory of the project.
 
+## Links
+- **Video Link**: https://app.screencastify.com/v3/watch/YlMzPtX6EYZObcI2lK18
+- Repository:  https://github.com/JerryChowMX/Challenge-Week-10.git
+
+
